@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T15:57:17.575189+00:00",
+  "generated_at": "2026-04-02T15:53:11.556097+00:00",
   "years": {
     "2018": {
       "MountainBikeRide": {
@@ -4812,6 +4812,15 @@
           "distance": 55354.03125,
           "elevation_gain": 439.0,
           "moving_time": 7919.741996765137
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "22355497060"
+          ],
+          "count": 1,
+          "distance": 37523.05078125,
+          "elevation_gain": 333.0,
+          "moving_time": 4785.0
         }
       },
       "Run": {
@@ -4868,6 +4877,15 @@
           "distance": 5040.7001953125,
           "elevation_gain": 93.0225830078125,
           "moving_time": 1536.193992137909
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "22350443140"
+          ],
+          "count": 1,
+          "distance": 5586.7001953125,
+          "elevation_gain": 113.776123046875,
+          "moving_time": 1675.0469970703125
         }
       },
       "VirtualRide": {
@@ -5007,6 +5025,24 @@
           "distance": 21514.6796875,
           "elevation_gain": 0.0,
           "moving_time": 2890.289999961853
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "22308293662"
+          ],
+          "count": 1,
+          "distance": 25197.5390625,
+          "elevation_gain": 0.0,
+          "moving_time": 3610.89599609375
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "22333680816"
+          ],
+          "count": 1,
+          "distance": 19435.439453125,
+          "elevation_gain": 0.0,
+          "moving_time": 3604.2689819335938
         }
       },
       "VirtualRun": {
