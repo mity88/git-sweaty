@@ -7642,5 +7642,44 @@
     "start_date_local": "2026-04-18T15:08:33",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 5191.3701171875,
+    "elevation_gain": 37.0,
+    "id": "22577439369",
+    "moving_time": 667.0,
+    "name": "Alberton Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-04-19T06:12:20",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 124923.2265625,
+    "elevation_gain": 765.0,
+    "id": "22578994037",
+    "moving_time": 13191.0,
+    "name": "Alberton Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-04-19T06:37:34",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 5524.06982421875,
+    "elevation_gain": 42.0,
+    "id": "22579419639",
+    "moving_time": 791.4249992370605,
+    "name": "Alberton Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-04-19T10:49:55",
+    "type": "Ride",
+    "year": 2026
   }
 ]
