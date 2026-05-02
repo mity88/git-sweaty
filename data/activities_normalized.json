@@ -7811,5 +7811,18 @@
     "start_date_local": "2026-05-01T06:43:41",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 176823.859375,
+    "elevation_gain": 1941.0,
+    "id": "22736072269",
+    "moving_time": 19137.0,
+    "name": "Clarens Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-05-02T07:11:23",
+    "type": "Ride",
+    "year": 2026
   }
 ]

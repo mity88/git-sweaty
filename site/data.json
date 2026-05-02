@@ -5408,6 +5408,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/22720664322",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 7,
+      "name": "Clarens Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22736072269",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10278,6 +10287,15 @@
           "distance": 102412.4296875,
           "elevation_gain": 586.0,
           "moving_time": 11327.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "22736072269"
+          ],
+          "count": 1,
+          "distance": 176823.859375,
+          "elevation_gain": 1941.0,
+          "moving_time": 19137.0
         }
       },
       "Run": {
@@ -10726,7 +10744,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-05-01T15:49:11.743234+00:00",
+  "generated_at": "2026-05-02T15:39:10.470045+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
