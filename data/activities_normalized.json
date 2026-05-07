@@ -7824,5 +7824,18 @@
     "start_date_local": "2026-05-02T07:11:23",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 6050.0,
+    "elevation_gain": 0.0,
+    "id": "22789303903",
+    "moving_time": 1799.0,
+    "name": "30m @ 12.1km/h - Treadmill",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-06T20:39:01",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
