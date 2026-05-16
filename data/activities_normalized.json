@@ -7889,5 +7889,18 @@
     "start_date_local": "2026-05-14T19:55:16",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 170773.71875,
+    "elevation_gain": 1231.0,
+    "id": "22900431198",
+    "moving_time": 25933.0,
+    "name": "Alberton Gravel Cycling",
+    "raw_activity_type": "gravel_cycling",
+    "raw_type": "gravel_cycling",
+    "start_date_local": "2026-05-16T05:43:08",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
