@@ -7902,5 +7902,18 @@
     "start_date_local": "2026-05-16T05:43:08",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 5000.0,
+    "elevation_gain": 0.0,
+    "id": "22919121612",
+    "moving_time": 1817.0,
+    "name": "10km/h = 6m/km",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-18T04:34:00",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
