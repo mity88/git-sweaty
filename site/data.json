@@ -5480,6 +5480,15 @@
       "type": "VirtualRun",
       "url": "https://connect.garmin.com/modern/activity/22919121612",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 22,
+      "name": "Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22941042591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10866,11 +10875,22 @@
           "elevation_gain": 169.897705078125,
           "moving_time": 4398.0
         }
+      },
+      "multi_sport": {
+        "2026-05-19": {
+          "activity_ids": [
+            "22941042591"
+          ],
+          "count": 1,
+          "distance": 20377.22988843918,
+          "elevation_gain": 0.0,
+          "moving_time": 3775.9909896850586
+        }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-05-19T17:34:19.706894+00:00",
+  "generated_at": "2026-05-20T17:49:56.827642+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
@@ -10908,6 +10928,10 @@
       "accent": "#ff8a5b",
       "label": "Other Workout"
     },
+    "multi_sport": {
+      "accent": "#ffbe0b",
+      "label": "Multi sport"
+    },
     "rowing_v2": {
       "accent": "#9b5de5",
       "label": "Rowing v2"
@@ -10922,6 +10946,7 @@
     "VirtualRide",
     "VirtualRun",
     "Workout",
+    "multi_sport",
     "rowing_v2"
   ],
   "units": {

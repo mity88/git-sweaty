@@ -7915,5 +7915,18 @@
     "start_date_local": "2026-05-18T04:34:00",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 20377.22988843918,
+    "elevation_gain": 0.0,
+    "id": "22941042591",
+    "moving_time": 3775.9909896850586,
+    "name": "Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-05-19T22:00:26",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]
