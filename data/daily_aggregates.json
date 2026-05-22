@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T17:27:02.720655+00:00",
+  "generated_at": "2026-05-22T17:02:49.661107+00:00",
   "years": {
     "2018": {
       "MountainBikeRide": {
@@ -5316,6 +5316,15 @@
           "distance": 11746.7802734375,
           "elevation_gain": 0.0,
           "moving_time": 1702.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "22964628534"
+          ],
+          "count": 1,
+          "distance": 13896.5498046875,
+          "elevation_gain": 0.0,
+          "moving_time": 1831.178955078125
         }
       },
       "VirtualRun": {
