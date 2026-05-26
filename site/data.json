@@ -5525,6 +5525,15 @@
       "type": "Workout",
       "url": "https://connect.garmin.com/modern/activity/23008956657",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 5,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/23014255304",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10917,6 +10926,15 @@
           "distance": 5000.0,
           "elevation_gain": 0.0,
           "moving_time": 1817.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "23014255304"
+          ],
+          "count": 1,
+          "distance": 5306.06005859375,
+          "elevation_gain": 0.0,
+          "moving_time": 1815.0
         }
       },
       "Workout": {
@@ -10962,7 +10980,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-05-25T17:00:34.456932+00:00",
+  "generated_at": "2026-05-26T17:51:46.095826+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
