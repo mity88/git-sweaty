@@ -8032,5 +8032,18 @@
     "start_date_local": "2026-06-01T05:32:37",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 1652.6199951171875,
+    "elevation_gain": 26.951416015625,
+    "id": "23099648683",
+    "moving_time": 1292.0,
+    "name": "Alberton Walk",
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-06-01T17:22:17",
+    "type": "Workout",
+    "year": 2026
   }
 ]

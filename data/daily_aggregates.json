@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T19:52:37.618470+00:00",
+  "generated_at": "2026-06-02T18:33:43.377521+00:00",
   "years": {
     "2018": {
       "MountainBikeRide": {
@@ -5455,6 +5455,15 @@
           "distance": 2275.3701171875,
           "elevation_gain": 29.279541015625,
           "moving_time": 1699.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "23099648683"
+          ],
+          "count": 1,
+          "distance": 1652.6199951171875,
+          "elevation_gain": 26.951416015625,
+          "moving_time": 1292.0
         }
       },
       "multi_sport": {
