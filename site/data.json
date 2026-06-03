@@ -5570,6 +5570,24 @@
       "type": "Workout",
       "url": "https://connect.garmin.com/modern/activity/23099648683",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 22,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/23108530683",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 4,
+      "name": "Alberton Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23111015408",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10476,6 +10494,15 @@
           "distance": 82593.4921875,
           "elevation_gain": 544.0,
           "moving_time": 9883.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "23111015408"
+          ],
+          "count": 1,
+          "distance": 30561.109375,
+          "elevation_gain": 255.0,
+          "moving_time": 3723.0
         }
       },
       "Run": {
@@ -10998,6 +11025,15 @@
           "distance": 5306.06005859375,
           "elevation_gain": 0.0,
           "moving_time": 1815.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "23108530683"
+          ],
+          "count": 1,
+          "distance": 5442.259765625,
+          "elevation_gain": 0.0,
+          "moving_time": 1827.0
         }
       },
       "Workout": {
@@ -11052,7 +11088,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-06-02T18:33:43.391238+00:00",
+  "generated_at": "2026-06-03T18:39:59.214351+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",

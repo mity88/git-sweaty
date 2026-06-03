@@ -8045,5 +8045,31 @@
     "start_date_local": "2026-06-01T17:22:17",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 5442.259765625,
+    "elevation_gain": 0.0,
+    "id": "23108530683",
+    "moving_time": 1827.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-02T22:00:32",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 30561.109375,
+    "elevation_gain": 255.0,
+    "id": "23111015408",
+    "moving_time": 3723.0,
+    "name": "Alberton Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-06-03T04:04:56",
+    "type": "Ride",
+    "year": 2026
   }
 ]
