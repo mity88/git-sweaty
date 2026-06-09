@@ -5615,6 +5615,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/23166670944",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 4,
+      "name": "Alberton Gravel/Unpaved Cycling",
+      "subtype": "gravel_cycling",
+      "type": "GravelRide",
+      "url": "https://connect.garmin.com/modern/activity/23182480238",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10219,6 +10228,15 @@
           "distance": 170773.71875,
           "elevation_gain": 1231.0,
           "moving_time": 25933.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "23182480238"
+          ],
+          "count": 1,
+          "distance": 40887.078125,
+          "elevation_gain": 509.0,
+          "moving_time": 5373.0
         }
       },
       "Ride": {
@@ -11142,7 +11160,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-06-08T17:44:19.261962+00:00",
+  "generated_at": "2026-06-09T17:18:49.091588+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
