@@ -8149,5 +8149,18 @@
     "start_date_local": "2026-06-10T17:28:08",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 20675.259765625,
+    "elevation_gain": 173.0,
+    "id": "23206920545",
+    "moving_time": 2510.0,
+    "name": "Alberton Gravel/Unpaved Cycling",
+    "raw_activity_type": "gravel_cycling",
+    "raw_type": "gravel_cycling",
+    "start_date_local": "2026-06-11T04:05:40",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
