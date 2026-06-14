@@ -8162,5 +8162,31 @@
     "start_date_local": "2026-06-11T04:05:40",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 1979.3800048828125,
+    "elevation_gain": 20.34521484375,
+    "id": "23244501746",
+    "moving_time": 1430.0,
+    "name": "Alberton Walk",
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-06-14T12:13:21",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 39534.80859375,
+    "elevation_gain": 0.0,
+    "id": "23247205485",
+    "moving_time": 5447.0,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-06-14T14:46:34",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
