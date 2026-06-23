@@ -5696,6 +5696,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/23342479258",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 17,
+      "name": "Alberton Walk",
+      "subtype": "other",
+      "type": "Workout",
+      "url": "https://connect.garmin.com/modern/activity/23353164414",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11280,6 +11289,15 @@
           "distance": 1979.3800048828125,
           "elevation_gain": 20.34521484375,
           "moving_time": 1430.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "23353164414"
+          ],
+          "count": 1,
+          "distance": 1225.06005859375,
+          "elevation_gain": 10.565185546875,
+          "moving_time": 998.0
         }
       },
       "multi_sport": {
@@ -11296,7 +11314,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-06-22T18:41:13.419405+00:00",
+  "generated_at": "2026-06-23T17:10:57.935923+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
