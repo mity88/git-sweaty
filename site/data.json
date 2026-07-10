@@ -5786,6 +5786,24 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/23515122507",
       "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 18,
+      "name": "Indoor Cycling",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/23538747416",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 4,
+      "name": "Alberton Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23542585793",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10829,6 +10847,15 @@
           "distance": 7053.02001953125,
           "elevation_gain": 107.3482666015625,
           "moving_time": 2240.386993408203
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "23542585793"
+          ],
+          "count": 1,
+          "distance": 6015.10986328125,
+          "elevation_gain": 95.7513427734375,
+          "moving_time": 1927.2969970703125
         }
       },
       "VirtualRide": {
@@ -11329,6 +11356,15 @@
           "distance": 35143.328125,
           "elevation_gain": 0.0,
           "moving_time": 4308.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "23538747416"
+          ],
+          "count": 1,
+          "distance": 26187.359375,
+          "elevation_gain": 0.0,
+          "moving_time": 3742.970947265625
         }
       },
       "VirtualRun": {
@@ -11476,7 +11512,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-07-09T17:13:03.674015+00:00",
+  "generated_at": "2026-07-10T16:50:32.475491+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",

@@ -8357,5 +8357,31 @@
     "start_date_local": "2026-07-07T20:17:49",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 26187.359375,
+    "elevation_gain": 0.0,
+    "id": "23538747416",
+    "moving_time": 3742.970947265625,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-07-09T18:56:07",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 6015.10986328125,
+    "elevation_gain": 95.7513427734375,
+    "id": "23542585793",
+    "moving_time": 1927.2969970703125,
+    "name": "Alberton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-10T04:45:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
