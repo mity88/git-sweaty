@@ -8487,5 +8487,31 @@
     "start_date_local": "2026-07-22T17:35:55",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 46808.1796875,
+    "elevation_gain": 0.0,
+    "id": "23707223483",
+    "moving_time": 7244.752014160156,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-07-23T19:02:03",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 14060.7998046875,
+    "elevation_gain": 424.0,
+    "id": "23718443873",
+    "moving_time": 2697.0,
+    "name": "\u00c9vian-les-Bains Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-24T19:31:12",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

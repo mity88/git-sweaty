@@ -5876,6 +5876,24 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/23693331585",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 19,
+      "name": "Indoor Cycling",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/23707223483",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 19,
+      "name": "\u00c9vian-les-Bains Virtual Cycling",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/23718443873",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11500,6 +11518,24 @@
           "distance": 34818.46875,
           "elevation_gain": 0.0,
           "moving_time": 5378.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "23707223483"
+          ],
+          "count": 1,
+          "distance": 46808.1796875,
+          "elevation_gain": 0.0,
+          "moving_time": 7244.752014160156
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "23718443873"
+          ],
+          "count": 1,
+          "distance": 14060.7998046875,
+          "elevation_gain": 424.0,
+          "moving_time": 2697.0
         }
       },
       "VirtualRun": {
@@ -11656,7 +11692,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-07-23T16:20:43.314548+00:00",
+  "generated_at": "2026-07-25T15:57:41.277145+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
