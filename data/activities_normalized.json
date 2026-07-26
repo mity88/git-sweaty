@@ -8513,5 +8513,57 @@
     "start_date_local": "2026-07-24T19:31:12",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 44180.171875,
+    "elevation_gain": 374.0,
+    "id": "23734158740",
+    "moving_time": 5633.0,
+    "name": "Germiston Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-26T06:10:04",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 19284.380859375,
+    "elevation_gain": 174.0,
+    "id": "23734915465",
+    "moving_time": 1931.9919872283936,
+    "name": "Kempton Park Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-26T08:31:42",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 11533.6796875,
+    "elevation_gain": 101.0,
+    "id": "23735744674",
+    "moving_time": 1195.9969787597656,
+    "name": "Kempton Park Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-26T10:35:50",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 33106.0390625,
+    "elevation_gain": 269.0,
+    "id": "23737338862",
+    "moving_time": 4055.0,
+    "name": "Kempton Park Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-26T11:42:57",
+    "type": "Ride",
+    "year": 2026
   }
 ]

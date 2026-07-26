@@ -5894,6 +5894,42 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/23718443873",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 6,
+      "name": "Germiston Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23734158740",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 8,
+      "name": "Kempton Park Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23734915465",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 10,
+      "name": "Kempton Park Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23735744674",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 11,
+      "name": "Kempton Park Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23737338862",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10863,6 +10899,18 @@
           "distance": 101816.671875,
           "elevation_gain": 720.0,
           "moving_time": 13999.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "23734158740",
+            "23734915465",
+            "23735744674",
+            "23737338862"
+          ],
+          "count": 4,
+          "distance": 108104.271484375,
+          "elevation_gain": 918.0,
+          "moving_time": 12815.98896598816
         }
       },
       "Run": {
@@ -11692,7 +11740,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-07-25T15:57:41.277145+00:00",
+  "generated_at": "2026-07-26T15:56:07.615191+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
