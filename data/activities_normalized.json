@@ -8565,5 +8565,18 @@
     "start_date_local": "2026-07-26T11:42:57",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 1431.3199462890625,
+    "elevation_gain": 17.424072265625,
+    "id": "23751510469",
+    "moving_time": 1101.0,
+    "name": "Alberton Walk",
+    "raw_activity_type": "other",
+    "raw_type": "other",
+    "start_date_local": "2026-07-27T17:01:10",
+    "type": "Workout",
+    "year": 2026
   }
 ]
