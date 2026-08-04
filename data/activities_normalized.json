@@ -8669,5 +8669,31 @@
     "start_date_local": "2026-08-03T16:56:33",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 11374.099609375,
+    "elevation_gain": 0.0,
+    "id": "23850232670",
+    "moving_time": 2100.5060119628906,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-04T16:33:19",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 38386.3515625,
+    "elevation_gain": 0.0,
+    "id": "23850960551",
+    "moving_time": 3623.0,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-04T17:08:39",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
