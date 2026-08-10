@@ -6056,6 +6056,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23907781686",
       "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 6,
+      "name": "Alberton Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23919872378",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11073,6 +11082,15 @@
           "distance": 89237.421875,
           "elevation_gain": 535.0,
           "moving_time": 11070.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "23919872378"
+          ],
+          "count": 1,
+          "distance": 89002.546875,
+          "elevation_gain": 542.0,
+          "moving_time": 11115.0
         }
       },
       "Run": {
@@ -11984,7 +12002,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-08-09T15:22:00.448655+00:00",
+  "generated_at": "2026-08-10T15:51:43.453264+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
