@@ -8812,5 +8812,18 @@
     "start_date_local": "2026-08-15T05:33:48",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 102372.1328125,
+    "elevation_gain": 828.0,
+    "id": "23994771707",
+    "moving_time": 9828.99700164795,
+    "name": "Lesedi Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-16T07:28:56",
+    "type": "Ride",
+    "year": 2026
   }
 ]
