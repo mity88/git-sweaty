@@ -8838,5 +8838,18 @@
     "start_date_local": "2026-08-18T04:02:42",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 5738.43994140625,
+    "elevation_gain": 71.0792236328125,
+    "id": "24037402580",
+    "moving_time": 1920.6830139160156,
+    "name": "Alberton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-19T16:36:05",
+    "type": "Run",
+    "year": 2026
   }
 ]
