@@ -8903,5 +8903,44 @@
     "start_date_local": "2026-08-24T16:57:04",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24125898765",
+    "moving_time": 3621.72607421875,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-26T17:37:26",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 8131.7900390625,
+    "elevation_gain": 98.47751347720623,
+    "id": "24131722118",
+    "moving_time": 2696.4949951171875,
+    "name": "Durban Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-27T06:14:12",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24141336112",
+    "moving_time": 3610.826904296875,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-27T21:31:25",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
