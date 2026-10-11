@@ -9254,5 +9254,18 @@
     "start_date_local": "2026-10-10T06:01:35",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 122237.40625,
+    "elevation_gain": 849.0,
+    "id": "24681624712",
+    "moving_time": 13599.0,
+    "name": "Alberton Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-11T05:41:07",
+    "type": "Ride",
+    "year": 2026
   }
 ]
