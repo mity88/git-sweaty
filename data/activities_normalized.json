@@ -9345,5 +9345,18 @@
     "start_date_local": "2026-10-27T05:50:04",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 6019.919921875,
+    "elevation_gain": 60.196234703063965,
+    "id": "24892596879",
+    "moving_time": 2240.9330139160156,
+    "name": "Umhlanga Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-29T13:49:54",
+    "type": "Run",
+    "year": 2026
   }
 ]
