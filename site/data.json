@@ -6488,6 +6488,15 @@
       "type": "Workout",
       "url": "https://connect.garmin.com/modern/activity/24953906620",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 14,
+      "name": "Cardio",
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "url": "https://connect.garmin.com/modern/activity/24964268468",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12832,6 +12841,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1885.2740478515625
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "24964268468"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7211.35400390625
         }
       },
       "multi_sport": {
@@ -12848,7 +12866,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-11-03T20:43:03.652584+00:00",
+  "generated_at": "2026-11-04T20:59:42.381960+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",

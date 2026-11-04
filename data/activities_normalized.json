@@ -9371,5 +9371,18 @@
     "start_date_local": "2026-11-03T18:39:10",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24964268468",
+    "moving_time": 7211.35400390625,
+    "name": "Cardio",
+    "raw_activity_type": "indoor_cardio",
+    "raw_type": "indoor_cardio",
+    "start_date_local": "2026-11-04T14:30:27",
+    "type": "Workout",
+    "year": 2026
   }
 ]
