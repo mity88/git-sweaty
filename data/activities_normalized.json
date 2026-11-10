@@ -9397,5 +9397,18 @@
     "start_date_local": "2026-11-07T11:53:35",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25032978208",
+    "moving_time": 1834.468994140625,
+    "name": "Cardio",
+    "raw_activity_type": "indoor_cardio",
+    "raw_type": "indoor_cardio",
+    "start_date_local": "2026-11-10T18:04:54",
+    "type": "Workout",
+    "year": 2026
   }
 ]
