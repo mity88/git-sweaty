@@ -6524,6 +6524,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/25057930539",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 6,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/25061373159",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12777,6 +12786,17 @@
           "moving_time": 3437.0
         }
       },
+      "WeightTraining": {
+        "2026-11-13": {
+          "activity_ids": [
+            "25061373159"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3114.01904296875
+        }
+      },
       "Workout": {
         "2026-01-03": {
           "activity_ids": [
@@ -12920,7 +12940,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-11-12T21:39:42.078810+00:00",
+  "generated_at": "2026-11-13T21:05:56.452590+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
@@ -12954,6 +12974,10 @@
       "accent": "#00bbf9",
       "label": "Virtual Run"
     },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    },
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
@@ -12975,6 +12999,7 @@
     "Swim",
     "VirtualRide",
     "VirtualRun",
+    "WeightTraining",
     "Workout",
     "multi_sport",
     "rowing_v2"
