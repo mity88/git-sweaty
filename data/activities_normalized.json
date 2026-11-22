@@ -9501,5 +9501,18 @@
     "start_date_local": "2026-11-20T04:23:00",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 97131.359375,
+    "elevation_gain": 1190.0,
+    "id": "25159825511",
+    "moving_time": 15623.0,
+    "name": "Midrand Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-11-22T06:25:03",
+    "type": "Ride",
+    "year": 2026
   }
 ]

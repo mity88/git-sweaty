@@ -6578,6 +6578,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/25137310851",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 6,
+      "name": "Midrand Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/25159825511",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11712,6 +11721,15 @@
           "distance": 29776.689453125,
           "elevation_gain": 233.0,
           "moving_time": 4421.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "25159825511"
+          ],
+          "count": 1,
+          "distance": 97131.359375,
+          "elevation_gain": 1190.0,
+          "moving_time": 15623.0
         }
       },
       "Run": {
@@ -13030,7 +13048,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
-  "generated_at": "2026-11-21T20:42:47.262607+00:00",
+  "generated_at": "2026-11-22T20:53:20.582825+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/79a38a9a-6abb-4375-b612-edfafdac7f21",
   "repo": "mity88/git-sweaty",
